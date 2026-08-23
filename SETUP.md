@@ -74,10 +74,13 @@ The full warehouse (~79M rows) is hosted on Hugging Face behind a click-through 
    type **Read** → name it (e.g. `internship`) → copy it somewhere safe.
    ⚠️ Read, not Write — the track never needs more, and a leaked read token is harmless
    to you.
-4. **Use it in notebooks**: paste it at the `getpass` prompt when a notebook asks, or store it
-   in Colab's **Secrets** panel (🔑 icon, name it `HF_TOKEN`).
-   ⚠️ **Never type the token into a code cell.** Your repo is public — a hardcoded token
-   gets committed with your notebook.
+4. **Use it safely**: keep it in a local `.env` file or in Colab's **Secrets** panel (🔑
+   icon, name it `HF_TOKEN`). The repo ships with a template at `.env.example`; copy it to
+   `.env` locally and fill in your token there.
+   ⚠️ **Never type the token into a code cell or commit `.env`.** Your repo is public — a
+   hardcoded token gets committed with your notebook.
+5. **If you want a helper for local use**: `python scripts/hf_auth.py` loads `HF_TOKEN` from
+   your environment or your local `.env` file and masks it before printing.
 
 **✅ Done when:** the first cells of Notebook 03 print the table row counts.
 

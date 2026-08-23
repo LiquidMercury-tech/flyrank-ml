@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ff14e13-7825-478c-a534-90d8666645b4" name="Changes" comment="Aug 23, 3:31, 1st commit">
+      <change beforePath="$PROJECT_DIR$/SETUP.md" beforeDir="false" afterPath="$PROJECT_DIR$/SETUP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/charts/action_mix.svg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/charts/action_mix.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/charts/confidence_mix.svg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/charts/confidence_mix.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/charts/top_feature_importance.svg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/charts/top_feature_importance.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/charts/top_reason_codes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/charts/top_reason_codes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/model_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/model_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/capstone.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/capstone.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/w04_baseline_score.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/w04_baseline_score.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/w04_signal_audit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/w04_signal_audit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/w05_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/w05_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/w06_validation_audit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/w06_validation_audit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/notebooks/w07_action_playbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/work/notebooks/w07_action_playbook.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Acer/PycharmProjects/flyrank-ml" value="3IJGgbknAQ0bre0GzWPXaTJIvOW" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LiquidMercury-tech&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LiquidMercury-tech/flyrank-ml.git&quot;,
+    &quot;accountId&quot;: &quot;fd4a9738-a1fb-45c3-bb22-dbc2a7f50486&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000001072429" />
+      <entry key="S10" value="1.0000103558105258" />
+      <entry key="S30" value="1.0217968983366972" />
+      <entry key="S60" value="1.1476377330816792" />
+      <entry key="M2" value="1.3844028962053108" />
+      <entry key="M5" value="1.931980570583407" />
+      <entry key="M10" value="6.564873662655931" />
+      <entry key="M15" value="15.158822122620284" />
+      <entry key="M30" value="39.9525720020846" />
+      <entry key="H1" value="66.7734376921906" />
+      <entry key="H2" value="86.74858507175425" />
+      <entry key="H4" value="98.97737644547846" />
+      <entry key="D1" value="110.52744432594804" />
+      <entry key="W1" value="112.64330862851038" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709163809315" />
+      <entry key="S2" value="0.9972312513520695" />
+      <entry key="S5" value="0.9988915793708636" />
+      <entry key="S10" value="0.9994559889117859" />
+      <entry key="S30" value="1.021610061802204" />
+      <entry key="S60" value="1.147538495573543" />
+      <entry key="M2" value="1.3843477933119597" />
+      <entry key="M5" value="1.93192043873216" />
+      <entry key="M10" value="6.564447206278559" />
+      <entry key="M15" value="15.158002464381168" />
+      <entry key="M30" value="39.95135758670856" />
+      <entry key="H1" value="66.77238469045463" />
+      <entry key="H2" value="86.7478906268374" />
+      <entry key="H4" value="98.97697752014433" />
+      <entry key="D1" value="110.52736967099356" />
+      <entry key="W1" value="112.64329774938558" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IJFEtHAy5C7sPTpV19RhjWNCvF" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;copilot.sensitive.folder.allow.file_read.C:/Users/Acer/Downloads&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff14e13-7825-478c-a534-90d8666645b4" name="Changes" comment="" />
+      <created>1787474655879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787474655879</updated>
+    </task>
+    <task id="LOCAL-00001" summary="AUg 23, 2:51, 1st commit">
+      <option name="closed" value="true" />
+      <created>1787475984710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787475984710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aug 23, 3:31, 1st commit">
+      <option name="closed" value="true" />
+      <created>1787476559741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787476559741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aug 23, 3:31, 2nd commit">
+      <option name="closed" value="true" />
+      <created>1787478102352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787478102352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aug 23, 3:31, 1st commit">
+      <option name="closed" value="true" />
+      <created>1787478265571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787478265571</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AUg 23, 2:51, 1st commit" />
+    <MESSAGE value="Aug 23, 3:31, 2nd commit" />
+    <MESSAGE value="Aug 23, 3:31, 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aug 23, 3:31, 1st commit" />
+  </component>
+</project>
